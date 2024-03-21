@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Shop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\812.jpg",
+      "PackagePath": "staticwebassets\\img\\812.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\RR.jpg",
+      "PackagePath": "staticwebassets\\img\\RR.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\continental.jpg",
+      "PackagePath": "staticwebassets\\img\\continental.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\ghilbi.jpg",
+      "PackagePath": "staticwebassets\\img\\ghilbi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\m5.jpg",
+      "PackagePath": "staticwebassets\\img\\m5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\maserati.jpg",
+      "PackagePath": "staticwebassets\\img\\maserati.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\mclaren.jpg",
+      "PackagePath": "staticwebassets\\img\\mclaren.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\taycan.jpg",
+      "PackagePath": "staticwebassets\\img\\taycan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\tesla.jpg",
+      "PackagePath": "staticwebassets\\img\\tesla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\img\\urus.jpg",
+      "PackagePath": "staticwebassets\\img\\urus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\RiderProjects\\Shop\\Shop\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Shop.props",
+      "PackagePath": "build\\Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop.props",
+      "PackagePath": "buildMultiTargeting\\Shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Shop.props",
+      "PackagePath": "buildTransitive\\Shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
